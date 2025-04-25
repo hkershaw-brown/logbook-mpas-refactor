@@ -51,7 +51,7 @@ make -j 8 gfortran CORE=init_atmosphere USE_PIO2=true
 ```
 
 ```
-make clean CORE=init_atmosphere_model
+make clean CORE=atmosphere
 make -j 8 gfortran CORE=atmosphere USE_PIO2=true 
 ```
 
