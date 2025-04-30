@@ -12,7 +12,7 @@ Needs a mesh file and a static file for each resolutions
 240-km mesh (10242 horizontal grid cells) 6.3MB, 4.0MB  
 120-km mesh (40962 horizontal grid cells)  
 60-km mesh (163842 horizontal grid cells)  
-48-km mesh (256002 horizontal grid cells)  182MB, 174MB
+48-km mesh (256002 horizontal grid cells)  182MB, 174MB  
 30-km mesh (655362 horizontal grid cells)  
 24-km mesh (1024002 horizontal grid cells)  
 15-km mesh (2621442 horizontal grid cells) 1659MB, 1366MB  

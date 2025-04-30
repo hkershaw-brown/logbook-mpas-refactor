@@ -13,4 +13,13 @@
 
 # Running MPAS
 - [MPAS 7](./run-mpas7.md)
+- [MPAS 7 regional](./run-mpas7-reg.md)
 - [MPAS 8](./run-mpas8.md)
+
+# Create Ensemble
+
+- [Perturb](./perturb.md)
+
+# Run filter
+
+- [Filter](./filter.md)

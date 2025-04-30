@@ -38,4 +38,15 @@ init_real.pbs
 namelist.atmosphere  
 run_model.pbs
 
-    
+# 240km 
+
+`x1.10242.grid.nc -> /glade/campaign/mmm/wmr/mpas_tutorial/meshes/x1.10242.grid.nc`
+
+# 30km 
+
+Mesh  
+`/glade/campaign/mmm/wmr/mpas_meshes/x1.655362.tar.gz`
+
+Static  
+tar xvf /glade/campaign/mmm/wmr/mpas_meshes/x1.655362_static.tar.gz
+

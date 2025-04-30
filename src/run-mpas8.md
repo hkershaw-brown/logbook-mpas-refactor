@@ -12,12 +12,11 @@ init_real.pbs
 2.1.streams.init_atmosphere  
 init_real.pbs
 
-
-NOT SUBMITTED YET
 ### 2.2 Generating SST and sea-ice update files
 2.2.namelist.init_atmosphere  
 2.2.streams.init_atmosphere  
 init_real.pbs
 
 ### 2.3 model integration 
-namelist.atmospher
+namelist.atmosphere
+run_model.pbs
