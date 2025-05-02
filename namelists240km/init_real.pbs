@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+#PBS -N init_real
+#PBS -q main
+#PBS -A P86850054
+#PBS -l walltime=00:30:00
+#PBS -l select=1:ncpus=128:mpiprocs=1:mem=235gb
+
+mpirun ./init_atmosphere_model
